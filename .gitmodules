@@ -1,0 +1,3 @@
+[submodule "jslambda-handler"]
+	path = jslambda-handler
+	url = https://github.com/tgorka/jslambda-handler
