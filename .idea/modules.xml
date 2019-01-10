@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/jsgrape.iml" filepath="$PROJECT_DIR$/jsgrape.iml" />
       <module fileurl="file://$PROJECT_DIR$/jslambda-handler/jslambda-handler.iml" filepath="$PROJECT_DIR$/jslambda-handler/jslambda-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jslambda-handler/jslambda-handler.iml" filepath="$PROJECT_DIR$/jslambda-handler/jslambda-handler.iml" />
     </modules>
   </component>
 </project>
