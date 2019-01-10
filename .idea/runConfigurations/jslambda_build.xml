@@ -1,9 +1,9 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="jslambda_test" type="js.build_tools.npm">
+  <configuration default="false" name="jslambda_build" type="js.build_tools.npm" factoryName="npm">
     <package-json value="$PROJECT_DIR$/jslambda-handler/package.json" />
     <command value="run" />
     <scripts>
-      <script value="test" />
+      <script value="build" />
     </scripts>
     <node-interpreter value="project" />
     <package-manager value="yarn" />
