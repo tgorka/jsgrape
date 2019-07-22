@@ -1,3 +1,6 @@
 [submodule "jslambda-handler"]
 	path = jslambda-handler
 	url = https://github.com/tgorka/jslambda-handler
+[submodule "lambda-cloudfront-invalider"]
+	path = lambda-cloudfront-invalider
+	url = https://github.com/tgorka/lambda-cloudfront-invalider.git

@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/jslambda-handler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lambda-cloudfront-invalider" vcs="Git" />
   </component>
 </project>
